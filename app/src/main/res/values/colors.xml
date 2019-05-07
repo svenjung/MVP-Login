@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_color">#FFEEC900</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">@color/theme_color</color>
+
+    <color name="login_button_bg_enable">@color/theme_color</color>
+    <color name="login_button_bg_disable">#80EEC900</color>
+    <color name="login_button_text_enable">#FFFFFFFF</color>
+    <color name="login_button_text_disable">#80FFFFFF</color>
+</resources>

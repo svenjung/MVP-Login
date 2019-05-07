@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ZAppSven</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="login_title">登录</string>
+    <string name="login_static_hint_mobile">手机号</string>
+    <string name="login_static_hint_password">密码</string>
+    <string name="login_static_hint_verify_code">验证码</string>
+    <string name="login_hint_mobile">输入手机号码</string>
+    <string name="login_hint_password">输入密码</string>
+    <string name="login_hint_verify_code">输入验证码</string>
+    <string name="login_send_sms_code">获取验证码</string>
+    <string name="login_send_sms_code_delay">%d秒后重试</string>
+    <string name="login_button">登录</string>
+    <string name="login_type_mobile">密码登录</string>
+    <string name="login_type_sms">验证码登录</string>
+    <string name="login_save_password">记住密码</string>
+
+    <string name="toast_empty_phone">手机号码不能为空</string>
+    <string name="toast_invalid_phone">无效的手机号码</string>
+    <string name="toast_empty_sms_code">验证码不能为空</string>
+
+    <string name="licences">登录/注册表示您已同意XXX服务协议</string>
+    <string name="forget_password">找回密码</string>
+    <string name="divider">|</string>
+    <string name="sign_up">注册账号</string>
+</resources>
